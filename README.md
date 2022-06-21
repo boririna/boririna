@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irina Borisova</h1>
-<h3 align="center">An aspiring web developer</h3>
+<h3 align="center">A junior web developer</h3>
 
 - 🔭 I’m currently working on [Hike Finder](https://swisshikefinder.herokuapp.com/)
 
