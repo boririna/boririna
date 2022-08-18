@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hike Finder](https://swisshikefinder.herokuapp.com/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails, React**
 
 - ⚡ Fun fact **I am a teacher of Russian language changing to web development**
 
